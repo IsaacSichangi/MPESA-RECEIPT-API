@@ -1,7 +1,7 @@
 {
   "name": "isaacsichangi/mpesareceiptapi",
-  "description": "This is a library to generate a pdf receipt for an mpesa transaction whoch can be sent as a link via sms or email to the customer.It can be integrated with the official safaricom/mpesa api",
-  "minimum-stability": "stable",
+  "description": "This is a library to generate a pdf receipt for an mpesa transaction whichch can be sent as a link via sms or email to the customer.It can be integrated with the official safaricom/mpesa api",
+  "minimum-stability": "dev",
   "license": "GPL-3.0",
   "version": "1.0.0",
   "type": "library",
