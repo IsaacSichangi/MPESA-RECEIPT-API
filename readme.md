@@ -8,7 +8,7 @@ This is a library to generate a pdf receipt for an mpesa transaction which can b
 
 ###INSTALLATION
 
-composer require isaacsichangi/mpesareceiptapi
+composer require isaacsichangi/mpesareceiptapi:1.0.0
 
 ##CREDITS
 
