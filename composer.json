@@ -1,0 +1,30 @@
+{
+  "name": "isaacsichangi/mpesareceiptapi",
+  "description": "This is a library to generate a pdf receipt for an mpesa transaction whoch can be sent as a link via sms or email to the customer.It can be integrated with the official safaricom/mpesa api",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0",
+  "version": "1.0.0",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Isaac Sichangi",
+      "email": "isaacsichangi@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "setasign/fpdf": "1.8.1",
+    "picqer/php-barcode-generator": "^0.2.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5"
+  },
+
+  "autoload": {
+    "psr-4": {"": "src/"},
+    "classmap": [
+      "src/"
+    ]
+  }
+
+}
